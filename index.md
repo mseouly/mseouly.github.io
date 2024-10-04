@@ -3,9 +3,9 @@ layout: home
 header:
   title: 정의로운 전환, mSeoulY
   text: >
-    이제 새롭게 시작합니다! 서울 YMCA! 특별시(metropolitan)? 또는 모바일(mobile)? 
+    이제 새롭게 시작합니다! 서울 YMCA! 특별시(metropolitan)? 모바일(mobile)? 미디어(media)? 누군가는 이건 메시지(message)라면서요? 수학(mathematics) -- 이 말은 제자라는 뜻의 <b>μαθηματικοι</b>에서 나왔다죠? 이건 무시하세요. 그리스어 잘 찍히는지 보려고...<br /><br />
     
-    아직 공사중입니다. 곧 찾아뵙겠습니다. 
+    <big>아직 공사중입니다. 곧 찾아뵙겠습니다.</big> 
   action: # action button is optional
     label: Find Out More
     url: '#about'
@@ -16,7 +16,7 @@ sections:
     section_id: about
     background_style: bg-primary
     title: 회원가입
-    text: 이제 시작입니다. 가입해 주십시오.
+    text: 웬 pdf냐구요? 이 페이지에서는 쿠키도 사용하지 않고, 개인정보를 수집하지도 않습니다. pdf 받아서 뭘 할까 하시는 분들은 대부분의 pdf 뷰어에서는 양식 채우기를 지원합니다. 그런게 뭔지 모르겠으면, 카카오톡 등에서 여셔도 됩니다. 조금 불편하게 해 보죠. 내용을 채워서 다음으로 보내 주세요 <img src="/assets/img/msy-email-w.png" /><br /><br /><big>이제 시작입니다. 가입해 주십시오.</big>
     actions:
       - title: 회원가입!
         url: '/assets/pdf/subscribe.pdf'
@@ -57,15 +57,15 @@ sections:
         # the images are located in:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
-        icon: ymca1909.jpg
+        icon: 1240.jpg
         url: '#'
       - title: Project 2
-        text: This is a very short project description.
+        text: 뉴스레터입니다.
         icon: intro.png
         url: '#'
       - title: Project 3
         text: This is a very short project description.
-        icon: 1240.jpg
+        icon: 5bc4.jpg
         url: '#'
       - title: Project 4
         text: This is a very short project description.
@@ -75,8 +75,8 @@ sections:
         text: This is a very short project description.
         icon: 465e.jpg
         url: '#'
-      - title: Project 6
-        text: This is a very short project description.
+      - title: 창립준비모임
+        text: 창립준비모임 전체 사진입니다.
         icon: 65bf.jpg
         url: '#'
 
