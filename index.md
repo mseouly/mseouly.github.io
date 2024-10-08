@@ -61,7 +61,7 @@ sections:
         url: '#'
       - title: Project 2
         text: 뉴스레터입니다.
-        icon: intro.png
+        icon: 1481.jpg
         url: '#'
       - title: Project 3
         text: This is a very short project description.
@@ -93,29 +93,29 @@ sections:
     title: Our Crew!
     background_style: bg-info text-white
     members:
-      - title: Christina M. Aponte
+      - title: #Christina M. Aponte
         text: Singer and Songwriter
-        image: assets/img/members/person1.jpg
+        image: assets/img/members/person1-.jpg
         url: '#'
-      - title: Gary D. Stevens
+      - title: #Gary D. Stevens
         text: Bass guitar.
-        image: assets/img/members/person2.jpg
+        image: assets/img/members/person2-.jpg
         url: '#'
-      - title: Devon J. Fletcher
+      - title: #Devon J. Fletcher
         text: Lead guitar.
-        image: assets/img/members/person3.jpg
+        image: assets/img/members/person3-.jpg
         url: '#'
-      - title: Todd E. Anderson
+      - title: #Todd E. Anderson
         text: Drums, percussion.
-        image: assets/img/members/person5.jpg
+        image: assets/img/members/person5-.jpg
         url: '#'
-      - title: Daniel T. Riley
+      - title: #Daniel T. Riley
         text: Musician, songwriter, producer.
-        image: assets/img/members/person6.jpg
+        image: assets/img/members/person6-.jpg
         url: '#'
-      - title: Ella P. Walter
+      - title: #Ella P. Walter
         text: PR.
-        image: assets/img/members/person7.jpg
+        image: assets/img/members/person7-.jpg
         url: '#'
 
   - type: timeline.html
