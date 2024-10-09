@@ -1,0 +1,24 @@
+<section id="{{ section.section_id }}" class="page-section-smaller {{ section.background_style }}">
+  <div class="container px-4 px-lg-5">
+    <h2 class="text-center mt-0">{{ section.title }}</h2>
+    <hr class="divider border border-primary border-2">
+    <div class="row justify-content-center">
+      <div class="col-md-auto {{ section.text_style | default: "text-muted" }}">
+        {{ section.text | newline_to_br | markdownify }}
+      </div><br /><br /><br /><br />
+      <div class="toc" style="text-align:center">
+        <ul class="texts">
+        {% for item in site.categories.news %}
+      
+          <li class="text-title">
+            <h3><a href="{{ site.baseurl }}{{ item.url }}">
+              {{ item.title }}
+            </a></h3> - <em>{{ item.date | date: "%Y년 %-m월 %-d일" }}</em>
+          </li>
+        {% endfor %}
+        </ul>
+      </div>
+    </div>
+    {% include actions.html actions=section.actions %}
+  </div>
+</section>

@@ -27,10 +27,10 @@ sections:
     #background_style: bg-info
     title: At Your Service
     services:
-      - title: Sturdy Templates
-        text: Our templates are updated regularly so they don't break.
+      - title: 뉴스레터
+        text: 우리가 무엇을 하고 있는지 궁금하시다면, 뉴스레터를 보십시오.
         icon: bi-gem text-info
-        url: https://startbootstrap.com/
+        url: /news
       - title: Ready to Ship
         text: You can use this theme as is, or you can make changes!
         icon: bi-rocket-takeoff

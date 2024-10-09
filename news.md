@@ -22,7 +22,7 @@ sections:
 #
 #    * [Github-flavored Markdown info page](http://github.github.com/github-flavored-markdown/).
 #
-- type: paragraph.html
+- type: news.html
   section_id: more-to-come
   title: 
 #  background_style: bg-info
@@ -34,15 +34,3 @@ sections:
   text: >+
     ### 뉴스레터 모음입니다.
 ---
-<div class="toc" style="text-align:center">
-  <ul class="texts">
-  {% for item in site.categories.news %}
-
-    <li class="text-title">
-      <h3><a href="{{ site.baseurl }}{{ item.url }}">
-        {{ item.title }}
-      </a></h3> - <em>{{ item.date | date: "%Y년 %-m월 %-d일" }}</em>
-    </li>
-  {% endfor %}
-  </ul>
-</div>
