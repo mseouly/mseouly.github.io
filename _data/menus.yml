@@ -13,5 +13,7 @@ header:
   url: /#timeline
 - title: 연락
   url: /#contacts
+- title: 뉴스레터
+  url: /news
 - title: 찾아오는 길
   url: /links

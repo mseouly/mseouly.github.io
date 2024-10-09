@@ -95,7 +95,7 @@ sections:
     members:
       - title: #Christina M. Aponte
         text: Singer and Songwriter
-        image: assets/img/members/person1-.jpg
+        image: https://mseouly-my.sharepoint.com/:i:/g/personal/hyun_mseouly_org/ESHVvTtzmVdJk-F2NLWuPkkBhw0sOxMsmo-kVa8IqnUaBQ?e=Xoz9nh #assets/img/members/person1-.jpg
         url: '#'
       - title: #Gary D. Stevens
         text: Bass guitar.
