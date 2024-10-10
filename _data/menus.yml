@@ -7,10 +7,10 @@ header:
   url: /#about
 - title: Services
   url: /#services
-- title: Members
-  url: /#members
-- title: 역사
-  url: /#timeline
+#- title: Members
+#  url: /#members
+#- title: 역사
+#  url: /#timeline
 - title: 연락
   url: /#contacts
 - title: 뉴스레터
