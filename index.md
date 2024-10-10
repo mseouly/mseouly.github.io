@@ -25,18 +25,20 @@ sections:
   - type: services.html
     section_id: services
     #background_style: bg-info
-    title: At Your Service
+    title: 둘러보기
     services:
       - title: 뉴스레터
         text: 우리가 무엇을 하고 있는지 궁금하시다면, 뉴스레터를 보십시오.
         icon: bi-gem text-info
         url: /news
-      - title: Ready to Ship
-        text: You can use this theme as is, or you can make changes!
+      - title: 시민논단
+        text: YMCA의 가장 멋진 전통중에 하나인 시민논단을 새롭게 시작합니다!
         icon: bi-rocket-takeoff
-      - title: Up to Date
-        text: We update dependencies to keep things fresh.
+        url: /discourses
+      - title: 행사와 모임
+        text: 행사와 모임. 사람 내음이 그립다면, 인류의 미래가 걱정된다면...
         icon: bi-activity
+        url: /events
       - title: Made with Love
         text: You have to make your websites with love these days!
         icon: bi-heart-fill
@@ -90,7 +92,7 @@ sections:
 
   - type: members.html
     section_id: members
-    title: Our Crew!
+    title: 행사! 행사!
     background_style: bg-info text-white
     members:
       - title: #Christina M. Aponte
@@ -140,14 +142,13 @@ sections:
 
   - type: contact.html
     section_id: contacts
-    title: Let's Get In Touch!
+    title: 기다리고 있습니다!
     text: >-
-      Ready to start your next project with us? Give us a call or send us an email
-      and we will get back to you as soon as possible!
+      언제나 당신을 기다리고 있습니다. 다음 연락처로 연락 주십시오.
     actions:
     - title: +82 (2)
       icon: bi-telephone-fill
-    - title: E-Mail
+    - title: 이메일
       icon: bi-envelope-fill
       url: mailto:heesoo@mseouly.org
     - title: Twitter
