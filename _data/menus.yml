@@ -15,5 +15,9 @@ header:
   url: /#contacts
 - title: 뉴스레터
   url: /news
-- title: 찾아오는 길
+- title: 시민논단
+  url: /discourses
+- title: 행사와 모임
+  url: /events
+- title: 찾아오시는 길
   url: /links

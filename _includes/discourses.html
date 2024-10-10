@@ -6,13 +6,17 @@
       <div class="col-md-auto {{ section.text_style | default: "text-muted" }}">
         {{ section.text | newline_to_br | markdownify }}
       </div><br /><br /><br /><br />
-      <div style="text-align:center">
-        {% for item in site.categories.news %}
+      <div class="toc" style="text-align:center">
+        <ul class="texts">
+        {% for item in site.categories.discourses %}
       
-            <p style="font-size: 20px"><a href="{{ site.baseurl }}{{ item.url }}">
+          <li class="text-title">
+            <h3><a href="{{ site.baseurl }}{{ item.url }}">
               {{ item.title }}
-            </a> - <span style="font-size: 16px"><em>{{ item.date | date: "%Y년 %-m월 %-d일" }}</em></span></p>
+            </a></h3> - <em>{{ item.date | date: "%Y년 %-m월 %-d일" }}</em>
+          </li>
         {% endfor %}
+        </ul>
       </div>
     </div>
     {% include actions.html actions=section.actions %}
