@@ -1,7 +1,7 @@
 ---
 layout: home
 header:
-  title: 정의로운 전환, μSeoulY
+  title: 정의로운 전환, <img src="assets/logo.png" width="100"> μSeoulY
   text: >
     이제 새롭게 시작합니다! 서울 YMCA! 특별시(metropolitan)? 모바일(mobile)? 미디어(media)? 누군가는 이건 메시지(message)라면서요? 수학(mathematics) -- 이 말은 제자라는 뜻의 <b>μαθηματικοι</b>에서 나왔다죠? 이건 무시하세요. 그리스어 잘 찍히는지 보려고...<br /><br />
     
