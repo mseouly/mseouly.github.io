@@ -6,7 +6,7 @@ date: 2024-11-04 01:24 +0900
 sections:
 - type: paragraph.html
   section_id: help
-  title: 2024년 11월 9일 집들이준비모임 뉴스레터
+  title: 2024년 11월 9일 집들이에 초대합니다
   text: >+
     ![image 1](https://mseouly.blob.core.windows.net/$web/2024-11-09-housewarming.png)
 
