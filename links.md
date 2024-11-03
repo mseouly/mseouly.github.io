@@ -27,7 +27,7 @@ sections:
   email:
     title: 이메일
     text: >
-      <img src="/assets/img/msy-email-w.png" />
+      help@mseouly.org
 #- type: paragraph.html
 #  section_id: help
 #  title: Get some help!

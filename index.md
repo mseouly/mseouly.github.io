@@ -16,7 +16,7 @@ sections:
     section_id: about
     background_style: bg-primary
     title: 회원가입
-    text: 웬 pdf냐구요? 이 페이지에서는 쿠키도 사용하지 않고, 개인정보를 수집하지도 않습니다. pdf 받아서 뭘 할까 하시는 분들은 대부분의 pdf 뷰어에서는 양식 채우기를 지원합니다. 그런게 뭔지 모르겠으면, 카카오톡 등에서 여셔도 됩니다. 조금 불편하게 해 보죠. 내용을 채워서 다음으로 보내 주세요 <img src="/assets/img/msy-email-w.png" /><br /><br /><big>이제 시작입니다. 가입해 주십시오.</big>
+    text: 웬 pdf냐구요? 이 페이지에서는 쿠키도 사용하지 않고, 개인정보를 수집하지도 않습니다. pdf 받아서 뭘 할까 하시는 분들은 대부분의 pdf 뷰어에서는 양식 채우기를 지원합니다. 그런게 뭔지 모르겠으면, 카카오톡 등에서 여셔도 됩니다. 조금 불편하게 해 보죠. 내용을 채워서 다음으로 보내 주세요<br /><br /><big>help@mseouly.org</big><br /><br /><big>이제 시작입니다. 가입해 주십시오.</big>
     actions:
       - title: 회원가입!
         url: '/assets/pdf/subscribe.pdf'
@@ -150,7 +150,7 @@ sections:
       icon: bi-telephone-fill
     - title: 이메일
       icon: bi-envelope-fill
-      url: mailto:heesoo@mseouly.org
+      url: mailto:help@mseouly.org
     - title: Twitter
       icon: bi-twitter
       url: '#'
