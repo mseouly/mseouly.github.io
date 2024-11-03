@@ -3,7 +3,12 @@
     <h2 class="text-center mt-0">{{ section.title }}</h2>
     <hr class="divider border border-primary border-2">
     <div class="row justify-content-center">
-      {% for member in section.members %}
+        {% for item in site.categories.events %}
+        <p class="text-white-50 mb-0"><a style="color:white;text-decoration: none; font-size: 30px" href="{{ site.baseurl }}{{ item.url }}">
+          {{ item.title }}
+        </a></p>
+        {% endfor %}
+        <!--      {% for member in section.members %} 
       <div class="col-lg-3 col-md-6 text-center">
         <div class="member-box">
           <img class="text-primary" src="{{ member.image }}" alt="{{ member.title }}">
@@ -11,7 +16,7 @@
           <p class="text-white-50 mb-0">{{ member.text }}</p>
         </div>
       </div>
-      {% endfor %}
+      {% endfor %} -->
     </div>
   </div>
 </section>
