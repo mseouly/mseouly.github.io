@@ -8,7 +8,7 @@ sections:
   section_id: help
   title: 2024년 11월 9일 m서울Y 집들이에 초대합니다
   text: >+
-    <img src="https://mseouly.blob.core.windows.net/$web/2024-11-09-housewarming.png" alt="image 1" style="max-width:600" /><br /><br />
+    <div width="100%"><img src="https://mseouly.blob.core.windows.net/$web/2024-11-09-housewarming.png" alt="image 1" style="max-width:600" /></div><br /><br />
 
     💌M서울YMCA의 집들이에 여러분을 초대합니다!<br />
 

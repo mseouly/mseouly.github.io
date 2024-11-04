@@ -10,7 +10,6 @@ header:
     label: Find Out More
     url: '#about'
 
-
 sections:
   - type: call-to-action.html
     section_id: about
@@ -119,7 +118,6 @@ sections:
       - title: Download Now!
         url: https://startbootstrap.com/themes/creative/
         class: btn-light
-
 
   - type: timeline.html
     section_id: timeline
